@@ -1,0 +1,9 @@
+c:\users\okay\documents\visual studio 2013\Projects\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+c:\users\okay\documents\visual studio 2013\Projects\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe
+c:\users\okay\documents\visual studio 2013\Projects\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.pdb
+c:\users\okay\documents\visual studio 2013\Projects\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+c:\users\okay\documents\visual studio 2013\Projects\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.Form1.resources
+c:\users\okay\documents\visual studio 2013\Projects\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.Properties.Resources.resources
+c:\users\okay\documents\visual studio 2013\Projects\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csproj.GenerateResource.Cache
+c:\users\okay\documents\visual studio 2013\Projects\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.exe
+c:\users\okay\documents\visual studio 2013\Projects\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.pdb
